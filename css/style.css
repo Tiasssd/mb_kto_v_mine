@@ -1,0 +1,12 @@
+.h1 {
+    font: 550 small-caps 52px 'Trebuchet MS', Helvetica, sans-serif;
+    font-stretch: expanded;
+	text-align: center;
+}
+
+body 
+{ 
+    background-image: url('../img/background.jpg');
+	background-size: cover, 100% 100%;
+	background-repeat: no-repeat;
+}
