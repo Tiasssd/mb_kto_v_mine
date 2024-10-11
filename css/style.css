@@ -2,11 +2,10 @@
     font: 550 small-caps 52px 'Trebuchet MS', Helvetica, sans-serif;
     font-stretch: expanded;
 	text-align: center;
+	color: #C0C0C0;
 }
 
 body 
 { 
-    background-image: url('../img/background.jpg');
-	background-size: cover, 100% 100%;
-	background-repeat: no-repeat;
+    background-color: 	#000000;
 }
