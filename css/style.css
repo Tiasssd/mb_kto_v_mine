@@ -1,3 +1,8 @@
+body 
+{ 
+    background-color: 	#000000;
+}
+
 .h1 {
     font: 550 small-caps 52px 'Trebuchet MS', Helvetica, sans-serif;
     font-stretch: expanded;
@@ -5,7 +10,14 @@
 	color: #C0C0C0;
 }
 
-body 
-{ 
-    background-color: 	#000000;
+.ddd
+{
+	 font: 400 18px 'Trebuchet MS', Helvetica, sans-serif;
+	 text-align: right;
+}
+
+.gallery 
+{
+	font: 550 small-caps 24px 'Trebuchet MS', Helvetica, sans-serif;
+	text-align: right;
 }
